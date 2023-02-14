@@ -1,0 +1,55 @@
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hello world"
+        android:id="@+id/heading" />
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="isi nama anda"
+        android:id="@+id/isinama"/>
+
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/radiogrup">
+
+        <RadioButton
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:id="@+id/rdb1"
+            android:text="Laki-laki"
+            android:checked="true"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rdb2"
+            android:text="Perempuan"
+            android:checked="true"/>
+
+    </RadioGroup>
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkAgree"
+        android:text="Semua yang diisikan benar"/>
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Submit"
+        android:onClick="hasil"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>

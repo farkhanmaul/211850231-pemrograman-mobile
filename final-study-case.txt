@@ -1,0 +1,41 @@
+- STUDI KASUS A
+Terdapat sebuah café di kota A. pemilik café tersebut ingin mempunyai sebuah aplikasi mobile. Akan tetapi pemilik café tersebut tidak tahu siapa yang bisa membuat aplikasi mobile. Di dalam aplikasi mobile tersebut pemilik café ingin terdapat fitur login dimana yang bisa login hanya pemilik café sebagai admin dan karyawan nya sebagai outhor. Selain terdapat fitur login pemilik café ingin lokasi café yang terdapat di google maps bisa masuk ke dalam aplikasi mobile, dan terdapat edit profil dimana yang bisa mengedit hanya pemilik café dan pemilik café bisa mengedit profile karyawan nya.
+
+- STUDI KASUS B
+Terdapat sebuah toko bangunan. Pemilik toko tersebut ingin mempunyai sebuah aplikasi mobile. Akan tetapi pemilik toko tersebut tidak tahu siapa yang bisa membuat aplikasi mobile. Di dalam aplikasi mobile tersebut pemilik toko ingin terdapat fitur login dimana yang bisa login hanya pemilik toko sebagai admin. Selain terdapat fitur login pemilik toko ingin lokasi toko yang terdapat di google maps bisa masuk ke dalam aplikasi mobile, dan terdapat fitur CRUD untuk bahan bangunannya.
+
+- STUDI KASUS C
+Buatlah aplikasi mobile laundry dimana terdapat 2 athor yaitu admin dan pelanggan. Pada bagian admin terdapat fitur login yang dapat mengontrol data laundry dan pelanggan laundry mulai dari melihat, mengedit dan menghapus data . kemudian untuk pelanggan bisa menginputkan nama, alamat , beratnya pakaian, kemudian ada pilihan button(cuci, strika) kemudian terdapat fitur transaksi . pada bagian admin ketika telah menerima data pelanggan admin bisa langsung menuju maps pada lokasi alamat yang telah di inputkan pelanggan
+
+- STUDI KASUS D
+Sebuah pemerintah ingin memudahkan masyarakat dalam mencari rumah sakit. Oleh karena itu pemerintah berencana ingin membuat sebuah aplikasi mobile dengan fitur di dalam aplikasi mobile tersebut terdapat lokasi rumah sakit di daerah tersebut. selain masyarakat dapat melihat lokasi rumah sakit di wilayah tersebut pemerintah berencana terdapat fitur pemesanan nomor antrian, sehingga pengunjung tidak perlu datang ke rumah sakit untuk mengambil nomor antrian. Buat lah sebuah aplikasi mobile dimana terdapat lokasi rumah sakit yang berada di wilayah Yogyakarta dan buat lah nomor antrian sehingga memudahkan masyarakat.
+
+- STUDI KASUS E
+Di daerah Yogyakarta banyak sekali mahasiswa/mahasiswa baru yang ingin mencari kost, untuk mempermudah hal tersebut buatlah aplikasi DaddyKost kemudian nantinya di dalam apk tersebut terdapat halaman login untuk pemilik kos dan penyewa kos dimana nantinya pemilik kos terdapat fitur creat, update, dan delete data pemilik kos juga harus mengupload potret dari kos kosan, alamat kos kosan , contact (tlfn, sms) serta fasilitas kos (Minimal 5 data kos). Kemudian untuk penyewa kos, bisa melihat info tentang kos kemudian ketika klik alamat bisa di arahkan pada alamat kost tersebut (gmaps).
+
+- STUDI KASUS F
+Pada sebuah supermarket di daerah jambi terdapat beberapa kasir yang akan diupdate sistemnya maka buatlah aplikasi mobile dilengkapi dengan data barang-barang yang tersedia. Dimana ada 2 author yaitu pembeli dan admin, pada bagian pembeli terdapat fitur login ketika aplikasinya terbuka halaman awal berisi dasbord yang berisi stok barang (serta harganya). Pada bagian admin terdapat fitur login dan fitur tambah data stok barang, hapus data, update data.
+
+- STUDI KASUS G
+Buatlah aplikasi menggunakan android studio dengan study kasus rental mobil dimana terdapat 2 author yaitu pemilik mobil(admin) dan penyewa . pada bagian admin terdapat fitur login kemudian fitur create, update dan delete data pada info rental mobil adapun datanya (jenis mobil, lamanya waktu, harga/jam,total harga) di lengkapi dengan alamat tempat rental mobil . Pada bagian penyewa terdapat fitur login kemudian penyewa hanya bisa melihat dan memilih mobil yang akan di sewa, dan fitur tambahan yaitu fitur transaksi(nama penyewa, jenis mobil, lamanya waktu, harga/jam,total harga) ketika penyewa klik alamat maka akan di arahkah ke maps menuju alamat tempat rental mobil tersebut
+
+- STUDI KASUS H
+Buatlah aplikasi mobile Toko computer yang terdapat di Yogyakarta, dimana terbagi menjadi 2 author yaitu admin dan pembeli , pada halaman admin terdapat proses tambah, ubah, hapus data (nama barang, stok barang, harga, garansi) kemudian pada halaman contack terdapat alamat, telephon, gmail dan instagram. Pada pagian pembeli terdapat proses login yang dimana nantinya ketika klik alamat, telepon, gmail dan instagram akan di arahkan pada aplikasi tersebut kemudian buatlah fitur transaksi data (nama pembeli,nama barang, stok barang, harga, garansi, jumlah total) pada halaman pembeli
+
+- STUDI KASUS I
+Untuk meminimalisir terjadinya antri yang panjang maka sebuah Barbershop ingin membuat aplikasi mobile yang terdapat fitur antrian . maka Buatlah aplikasi Barbershop dimana terdapat 2 author yaitu admin dan pelanggan. Pada bagian admin terdapat fitur login dimana admin bisa melakukan CRUD data yang didalamnya terdapat gambar-gambar jenis rambut, harga , durasi dan kategori (potong, semir) pada bagian pelanggan terdapat fitur pemesanan dimana nantinya pelanggan bisa membooking nomor antrian, jam, nama pelayan. kemudian terdapat fitur transaksi (uang elektronik ovo/gopay/dana) sehingga ketika pelanggan datang langsung membawa bukti pembayaran saja tanpa mengantri dan membayar cash
+
+- STUDI KASUS J
+Buatlah aplikasi mobile optic kacamata dimana dalam aplikasi tersebut terdapat dua author yaitu admin dan pelanggan. Pada bagian admin terdapat fitur login dan admin bisa mengnotrol semua data yang ada di aplikasi (admin bisa melakukan creat, update dan delete data) pada bagian pelanggan terdapat fitur login kemudian pelanggan memilih kacamata dan menginputkan nama pembeli, model kacamata, minus kanan, minus kiri, clynder serta jumlah barang yang di beli dan pelanggan dapat mengedit semua data yang di inputkan
+
+- STUDI KASUS K
+Buatlah aplikasi mobile perpustakaan dimana terdapat dua author dimana admin mempunyai fitur login dan bisa melihat semua data buku, data pengunjung dan bisa mengupdate serta delete data perpustakaan sedangkan pengujung bisa melakukan login dan melakukan pendaftaran sebagai anggota perpus, lalu memasukkan data buku apa saja yang di pinjamkan serta lamanya meminjam.
+
+- STUDI KASUS L
+Buatlah aplikasi mobile pendaftaran ujian, dimana terdapat mahasiswa yang memiliki fitur login ketika mahasiswa salah menginputkan username dan password sebanyak 3 kali maka form login akan menampilkan “akun telah terblokir” ketika berhasil mahasiswa dapat melakukan pendaftaran dengan menginputkan nama lengkap, nim, kelas, prodi kemudian ada fitur cetak kartu ujian kemudian pada bagian admin juga terdapat fitur login yang dapat mengedit data dan menghapus data peserta yang telah ujian yang telah terdaftar
+
+- STUDI KASUS M
+Terdapat sebuah toko baju di kota jogja. pemilik toko tersebut ingin mempunyai sebuah aplikasi mobile. Akan tetapi pemilik toko tersebut tidak tahu siapa yang bisa membuat aplikasi mobile. Di dalam aplikasi mobile tersebut pemilik toko ingin terdapat fitur login dimana yang bisa login hanya pemilik toko sebagai admin dan karyawan nya sebagai outhor. Selain terdapat fitur login pemilik toko ingin lokasi café yang terdapat di google maps bisa masuk ke dalam aplikasi mobile, dan terdapat edit profil dimana yang bisa mengedit hanya pemilik toko dan pemilik toko bisa mengedit profile karyawan nya.
+
+- STUDI KASUS N
+Buatlah aplikasi menggunakan android studio dengan study kasus took sepatu dimana terdapat 2 author yaitu pemilik toko(admin) dan pembeli . pada bagian admin terdapat fitur login kemudian fitur create, update dan delete data pada sepatu adapun datanya (jenis sepatu, ukuran, harga). Pada bagian pembeli terdapat fitur login kemudian pembeli hanya bisa melihat dan memilih sepatu yang akan di beli, dan fitur tambahan yaitu fitur transaksi(nama pembeli, jenis sepatu, ukuran, harga). Dan terdapat fitur maps untuk cek lokasi toko sepatu.
